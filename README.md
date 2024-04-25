@@ -7,5 +7,5 @@ A content based movie recommender system using cosine similarity
 1. Set the path of folders and its files in the code according to the location of your folder
 2. Open Terminal
 3. go to your folder directory
-4. run command streamlit run app.py
+4. run command -- "streamlit run app.py"
    
