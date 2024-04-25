@@ -1,15 +1,6 @@
 # Movie Recommender System
 Content based movie recommender system from tmdb  movies dataset
 
-# Steps to run the system:
-
-
-1. Set the path of folders and its files in the code according to the location of your folder
-2. Open Terminal
-3. go to your folder directory
-4. run command -- "streamlit run app.py"
-   
-
 [Visit website](https://movie-recommender-system-pg.streamlit.app)
 
 ![Movie Recommender](https://github.com/pranjalg25/movie-recommender-system/blob/main/app_screenshot.png)
